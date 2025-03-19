@@ -7,4 +7,4 @@ Landing Zone complète pour une entreprise :
 ✅ Compute : Augmentation du nombre de nœuds AKS, ajout de Load Balancer, Application Gateway.
 ✅ Base de données : Ajout de CosmosDB, amélioration de la rétention des backups (90 jours).
 ✅ Stockage & Backup : Ajout de Blob Storage, File Share, Backup Vault, Storage Tiering pour optimiser les coûts.
-✅ Gestion des identités (IAM) : Activation d'Azure AD Sync, PIM (Privileged Identity Management), SSO pour une gestion sécurisée des accès.
+✅ Gestion des identités (IAM) : Activation d'Azure AD Sync, PIM (Privileged Identity Management), SSO pour une gestion sécurisée des accès..
